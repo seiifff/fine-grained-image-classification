@@ -20,14 +20,3 @@ Designed for datasets with subtle inter-class differences:
 - ✅ **Grad-CAM visualizations** to inspect model attention
 - ✅ **Per-class metrics** and confusion matrix
 
-## 🛠️ Setup
-```bash
-git clone https://github.com/your-username/fine-grained-image-classification.git
-cd fine-grained-image-classification
-pip install -r requirements.txt
-
-
-
-![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)
-![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
