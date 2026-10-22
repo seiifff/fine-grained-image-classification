@@ -1,4 +1,3 @@
-# fine-grained-image-classification
 # Fine-Grained Image Classification with Attention (SE-ResNet50 + Grad-CAM)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
